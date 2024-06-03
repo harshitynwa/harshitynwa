@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Harshit! </h1>
 <h3 align="center">A Software Engineer well equipped with the MEARN stack</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitynwa" alt="harshitynwa" /></a> </p>
 
 - 🔭 I’m currently working in **Gemini Solutions Pvt Ltd**
 
